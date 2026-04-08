@@ -37,6 +37,8 @@ A console-based Sudoku game built in C++ featuring puzzle generation, user inter
 ## 📊 Program Flow
 [![s1.png](https://i.postimg.cc/65RBwMyW/s1.png)](https://postimg.cc/HVpq94wR)
 ---
+## 🔁 Function Architecture
+[![s2.png](https://i.postimg.cc/1tLbjZ0v/s2.png)](https://postimg.cc/njGdXgPm)
 
 ## ⚙️ Technical Details
 

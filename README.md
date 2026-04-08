@@ -43,6 +43,17 @@ A console-based Sudoku game built in C++ featuring puzzle generation, user inter
 
 ---
 
+
+## 📌 How to Play
+
+1. Run the program
+2. Choose from the menu:
+   - Enter a move
+   - Solve automatically
+   - Generate new puzzle
+   - Exit
+3. Input row, column, and value (1–9)
+
 ## 🧩 Future Improvements
 
 - GUI version (SFML / Qt / Web)

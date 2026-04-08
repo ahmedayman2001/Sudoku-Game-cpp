@@ -34,6 +34,8 @@ A console-based Sudoku game built in C++ featuring puzzle generation, user inter
 - Each column must contain numbers 1–9 without repetition
 - Each 3×3 sub-grid must contain numbers 1–9 without repetition
 
+## 📊 Program Flow
+[![s1.png](https://i.postimg.cc/65RBwMyW/s1.png)](https://postimg.cc/HVpq94wR)
 ---
 
 ## ⚙️ Technical Details

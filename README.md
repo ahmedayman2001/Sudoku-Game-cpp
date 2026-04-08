@@ -3,6 +3,8 @@
 A console-based Sudoku game built in C++ featuring puzzle generation, user interaction, and a backtracking solver.
 
 ---
+# view
+[![sd.png](https://i.postimg.cc/Y0Ps5zfT/sd.png)](https://postimg.cc/sGpmSSLJ)
 
 ## 🎮 Features
 

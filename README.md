@@ -26,7 +26,34 @@ A console-based Sudoku game built in C++ featuring puzzle generation, user inter
 - 2D Grid Manipulation
 
 ---
+## Game Flow Diagram:
+Start
+  ↓
+Generate Board / Load Board
+  ↓
+Display Board
+  ↓
+Show Menu
+  ↓
+User Choice?
+ ├── Enter Move → Validate → Update Board → Back to Menu
+ ├── Solve Puzzle → Backtracking Solver → Show Result
+ ├── Generate Puzzle → Create New Board → Back to Menu
+ └── Exit → End
 
+ ## Function Call Diagram
+
+main()
+ ├── displayBoard()
+ ├── printMenu()
+ ├── userMove()
+ │     └── isValidMove()
+ ├── solveSudoku()
+ │     └── isValidMove()
+ └── generatePuzzle()
+       └── solveSudoku()
+
+       
 ## 📌 How to Play
 
 1. Run the program

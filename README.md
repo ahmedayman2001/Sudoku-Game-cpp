@@ -25,33 +25,6 @@ A console-based Sudoku game built in C++ featuring puzzle generation, user inter
 - Randomized Puzzle Generation
 - 2D Grid Manipulation
 
----
-
-## 🧩 Game Flow Diagram
-
-```mermaid
-flowchart TD
-    A[Start] --> B[Generate Board / Load Board]
-    B --> C[Display Board]
-    C --> D[Show Menu]
-    D --> E{User Choice}
-
-    E -->|Enter Move| F[Validate Move → Update Board → Back to Menu]
-    E -->|Solve Puzzle| G[Backtracking Solver → Show Result]
-    E -->|Generate Puzzle| B
-    E -->|Exit| H[End]
-       
-## 📌 How to Play
-
-1. Run the program
-2. Choose from the menu:
-   - Enter a move
-   - Solve automatically
-   - Generate new puzzle
-   - Exit
-3. Input row, column, and value (1–9)
-
----
 
 ## 🧩 Sudoku Rules Implemented
 

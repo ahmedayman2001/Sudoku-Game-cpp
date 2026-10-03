@@ -44,7 +44,7 @@ It was built to practice recursion, backtracking, and constraint checking on a 2
 
 A full walkthrough of the app: generating a puzzle, entering valid and invalid moves, and watching the solver complete the board.
 
-▶️ **[Watch the demo video](YOUR_VIDEO_LINK_HERE)**
+▶️ **[Watch the demo video](https://drive.google.com/file/d/1-xEof0Www1dRusI-436BwwhRL8hyIcBB/view?usp=drive_link)**
 
 ---
 
